@@ -1,0 +1,15 @@
+# ninja log v5
+3	1526	7248617971448196	NInjaHexSumCalculator_autogen/timestamp	bbe241b1bf277d1
+3	1526	7248617971448196	NInjaHexSumCalculator_autogen/mocs_compilation.cpp	bbe241b1bf277d1
+3	1526	7248617971448196	E:/QtProjects/build-NInjaHexSumCalculator-Desktop_Qt_6_6_0_MinGW_64_bit-Release/NInjaHexSumCalculator_autogen/timestamp	bbe241b1bf277d1
+3	1526	7248617971448196	E:/QtProjects/build-NInjaHexSumCalculator-Desktop_Qt_6_6_0_MinGW_64_bit-Release/NInjaHexSumCalculator_autogen/mocs_compilation.cpp	bbe241b1bf277d1
+1527	6369	7248618021297704	CMakeFiles/NInjaHexSumCalculator.dir/NInjaHexSumCalculator_autogen/mocs_compilation.cpp.obj	29735b8f62870281
+1530	6376	7248618021337707	CMakeFiles/NInjaHexSumCalculator.dir/main.cpp.obj	4888763f336c4961
+1532	6869	7248618026317660	CMakeFiles/NInjaHexSumCalculator.dir/mainwindow.cpp.obj	2211d2a8fdc4dc
+6870	7099	7248618028527601	NInjaHexSumCalculator.exe	b1aa312b681bb05f
+23	552	7248618475714803	NInjaHexSumCalculator_autogen/timestamp	bbe241b1bf277d1
+23	552	7248618475714803	NInjaHexSumCalculator_autogen/mocs_compilation.cpp	bbe241b1bf277d1
+23	552	7248618475714803	E:/QtProjects/build-NInjaHexSumCalculator-Desktop_Qt_6_6_0_MinGW_64_bit-Release/NInjaHexSumCalculator_autogen/timestamp	bbe241b1bf277d1
+23	552	7248618475714803	E:/QtProjects/build-NInjaHexSumCalculator-Desktop_Qt_6_6_0_MinGW_64_bit-Release/NInjaHexSumCalculator_autogen/mocs_compilation.cpp	bbe241b1bf277d1
+601	5972	7248618529964353	CMakeFiles/NInjaHexSumCalculator.dir/mainwindow.cpp.obj	2211d2a8fdc4dc
+5973	6211	7248618532254261	NInjaHexSumCalculator.exe	b1aa312b681bb05f
