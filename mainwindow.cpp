@@ -22,6 +22,9 @@ void MainWindow::on_CalcSumBtn_clicked()
 
     int sum = 0x00;
 
+    hexValue = hexValue.simplified();
+    hexValue.replace(" " ,"");
+    hexValue.replace("-" , "");
 
     QString hexPair;
 
