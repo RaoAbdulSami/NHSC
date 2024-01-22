@@ -20,6 +20,9 @@ public:
 private slots:
     void on_CalcSumBtn_clicked();
 
+
+    void on_CalcXorBtn_clicked();
+
 private:
     Ui::MainWindow *ui;
 };
